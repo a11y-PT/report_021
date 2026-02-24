@@ -1,9 +1,9 @@
 ---
-website: "Nome_do_sítio_Web"          # Entre as aspas escreve o nome do website
+website: "PRR - WNPC - Pack 10 - Câmara de Lobos"          # Entre as aspas escreve o nome do website
 date: "31/12/1999"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
-uri: "https://dominio_sitio_web.pt"   # Entre as aspas escreve o domínio do website
-owner: "Nome_do_proprietário"         # Entre as aspas escrever o nome do owner do website
-seal: "_Ouro_"                          # Entre as aspas escreve Bronze, Prata ou Ouro
+uri: "Pack 10 listados"   # Entre as aspas escreve o domínio do website
+owner: "Câmara de Lobos"         # Entre as aspas escrever o nome do owner do website
+seal: "Prata"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 ---
 
 # {{ page.website }}
@@ -12,6 +12,21 @@ seal: "_Ouro_"                          # Entre as aspas escreve Bronze, Prata o
 - URL: {{ page.uri }}
 - Propriedade: {{ page.owner }}
 - Candidatura: {{ page.seal }}
+
+## URLs
+
+Pack 10:
+
+- https://cm-camaradelobos.pt/
+- https://am.cm-camaradelobos.pt/
+- https://agenda.cm-camaradelobos.pt/
+- https://alertalobos.cm-camaradelobos.pt/acessibilidade
+- https://urbanismo.cm-camaradelobos.pt/
+- https://associativismo.cm-camaradelobos.pt/
+- https://bolsadeestudo.cm-camaradelobos.pt/
+- https://bolsadeemprego.cm-camaradelobos.pt/
+- https://causaanimal.cm-camaradelobos.pt/
+- https://balcaomunicipal.cm-camaradelobos.pt/ (área logada)
 
 ## Relatório de Auditoria
 
