@@ -1,8 +1,8 @@
 ---
-website: "PRR - WNPC - Pack 10 - Câmara de Lobos"          # Entre as aspas escreve o nome do website
+website: "PRR - WNPC - Pack 10 - Município de Câmara de Lobos"          # Entre as aspas escreve o nome do website
 date: "31/12/1999"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "Pack 10 listados"   # Entre as aspas escreve o domínio do website
-owner: "Câmara de Lobos"         # Entre as aspas escrever o nome do owner do website
+owner: "Município de Câmara de Lobos"         # Entre as aspas escrever o nome do owner do website
 seal: "Prata"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 ---
 
