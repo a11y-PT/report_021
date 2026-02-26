@@ -13,6 +13,17 @@ seal: "Prata"                          # Entre as aspas escreve Bronze, Prata ou
 - Propriedade: {{ page.owner }}
 - Candidatura: {{ page.seal }}
 
+## Relatório de Auditoria
+
+Consulte aqui a última atualização: [Relatório do {{ page.website }}](report.html)
+
+<details>
+  <summary>Histórico de atualizações</summary>
+  <ul aria-label="lista de relatórios já efetuados">
+    <li><a href="ddmmaaaa_report.html">(dd/mm/aaaa). Relatório do {{ page.website }}</a></li>
+  </ul>
+</details>
+
 ## URLs
 
 Pack 10:
@@ -27,14 +38,3 @@ Pack 10:
 - https://bolsadeemprego.cm-camaradelobos.pt/
 - https://causaanimal.cm-camaradelobos.pt/
 - https://balcaomunicipal.cm-camaradelobos.pt/ (área logada)
-
-## Relatório de Auditoria
-
-Consulte aqui a última atualização: [Relatório do {{ page.website }}](report.html)
-
-<details>
-  <summary>Histórico de atualizações</summary>
-  <ul aria-label="lista de relatórios já efetuados">
-    <li><a href="ddmmaaaa_report.html">(dd/mm/aaaa). Relatório do {{ page.website }}</a></li>
-  </ul>
-</details>
