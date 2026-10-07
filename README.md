@@ -3,6 +3,7 @@ website: "Alerta Lobos"          # Entre as aspas escreve o nome do website
 date: "1/06/2026"                    # Entre as aspas escreve a data de criação do 1º relatório. Os restantes estão no histórico
 uri: "https://alertalobos.cm-camaradelobos.pt"   # Entre as aspas escreve o domínio do website
 a11y_statement: "https://alertalobos.cm-camaradelobos.pt/acessibilidade" # Entre as aspas escreve o URL da Declaração de Acessibilidade do website
+a11y_statement_date: "18/08/2026" # Data da declaração de acessibilidade
 owner: "Câmara Municipal de Lobos"         # Entre as aspas escrever o nome do owner do website
 seal: "Prata"                          # Entre as aspas escreve Bronze, Prata ou Ouro
 validity: "30/07/2026 a 30/07/2027" # Entre as aspas escreve data de início e data de fim no formato 31/12/1999 a 31/12/2000
